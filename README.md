@@ -32,6 +32,16 @@ This repository contains a set of CRUD (Create, Read, Update, Delete) APIs built
 4.  Run the main application file.
 5.  Access the CRUD APIs using an HTTP client such as Postman or curl.
 
+
+## Outputs
+![Screenshot (20)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/7721db31-70ce-4cf3-ab26-01356a2f8596)
+![Screenshot (21)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/d0fa54f2-1a36-4ba4-90b1-7297b290548f)
+![Screenshot (22)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/5fd179be-b037-4b79-9d35-16a1bfa305bf)
+![Screenshot (23)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/ed9a0573-c38f-4127-8ddd-c50903a5b245)
+![Screenshot (24)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/a8cf0754-987d-425e-969c-f48ebf9be5b8)
+![Screenshot (25)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/d2e4c70f-bb3d-4dc7-a129-157db8f42c28)
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request.
