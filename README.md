@@ -1,6 +1,6 @@
 # Go CRUD APIs with Gin Framework and SQLite
 
-This repository contains a set of CRUD (Create, Read, Update, Delete) APIs built with Go (Golang) using the Gin framework and SQLite database. The APIs allow for managing data stored locally in an SQLite database, providing endpoints for creating, retrieving, updating, and deleting records.
+This repository contains a set of CRUD (Create, Read, Update, Delete) APIs built with Go (Golang) using the Gin framework and SQLite database. The APIs allow for managing data stored locally in an SQLite database, providing endpoints for creating, retrieving, updating, and deleting records. The API is in master branch
 
 ## Features
 
