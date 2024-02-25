@@ -32,6 +32,11 @@ This repository contains a set of CRUD (Create, Read, Update, Delete) APIs built
 4.  Run the main application file.
 5.  Access the CRUD APIs using an HTTP client such as Postman or curl.
 
+## ER Diagram 
+
+![er for api](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/c3685a09-41ca-4dec-8c1b-d62ea9b473b5)
+
+
 
 ## Outputs
 -   **POST:**
