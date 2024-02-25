@@ -31,6 +31,36 @@ This repository contains a set of CRUD (Create, Read, Update, Delete) APIs built
 3.  Install any necessary dependencies.
 4.  Run the main application file.
 5.  Access the CRUD APIs using an HTTP client such as Postman or curl.
+## ER Diagram 
+
+![er for api](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/c3685a09-41ca-4dec-8c1b-d62ea9b473b5)
+
+
+
+## Outputs
+-   **POST:**
+![Screenshot (20)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/7721db31-70ce-4cf3-ab26-01356a2f8596)
+
+
+-   **POST:**
+![Screenshot (21)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/d0fa54f2-1a36-4ba4-90b1-7297b290548f)
+
+
+-   **GET:**
+![Screenshot (22)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/5fd179be-b037-4b79-9d35-16a1bfa305bf)
+
+
+-   **GET:**
+![Screenshot (23)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/ed9a0573-c38f-4127-8ddd-c50903a5b245)
+
+
+-   **DELETE:**
+![Screenshot (24)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/a8cf0754-987d-425e-969c-f48ebf9be5b8)
+
+
+-   **PUT:**
+![Screenshot (25)](https://github.com/logan-git-art/Golang-API-Task/assets/84459081/d2e4c70f-bb3d-4dc7-a129-157db8f42c28)
+
 
 ## Contributing
 
